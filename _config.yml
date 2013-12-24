@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Dane Morgan on GitHub
 markdown: redcarpet
 pygments: true
+baseurl: /danemorgan.github.io
