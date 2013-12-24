@@ -21,7 +21,7 @@ I like to go comando and piss in the wind. Life is messy. That's why God invente
 
 So, of course, now if i'm going to do this I'm going to have to tweak some things. I have Python installed already, but, yeah, only to try to get 
 some old GIMP plugins working. I haven't used GIMP in ages and it's only laziness that Python is still there. I've never done anything with it.
- 
+
 I do not, however, have Ruby installed.
 
 I've thought about it. A number of times.
